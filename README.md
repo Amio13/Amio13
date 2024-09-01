@@ -15,6 +15,13 @@ From researchers to robust back-end systems, I'm all about creating seamless dig
 ### Open Source Contributions 
 Open source is the backbone of innovation, and I'm proud to contribute to the community. Feel free to browse my contributions, suggest improvements, or collaborate on exciting new ventures. Together, we can build something extraordinary! 🤝🌟 
 
+### Community Builder
+I believe in the power of collaboration, knowledge sharing, and building inclusive communities that thrive on collective growth.
+
+- Contribute to various open-source projects across blockchain, web development, and more.
+- Help foster vibrant developer communities through mentorship, code reviews, and community-led initiatives.
+- Organize meetups, hackathons, and knowledge-sharing sessions to bring developers together
+
 ### Continuous Learning 
 The tech world is ever-evolving, and so am I. I love experimenting with new languages, tools, and methodologies to stay at the forefront of technology. Join me on this journey of lifelong learning and exploration. 🚀📘
 
