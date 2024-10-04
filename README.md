@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Blockchain Researcher & Developer | Community Builder
 -------------------------------------------------------
 
-Hello there! I'm Amio, a passionate blockchain researcher, developer and community builder. My GitHub is a playground for innovative ideas, creative coding, and cutting-edge projects. Whether it's smart contracts, decentralized applications, or researchers, I love building and contributing to solutions that make a difference. 🛠️💡 
+Hello! I'm Amio, a passionate blockchain researcher, developer and community builder. My GitHub is a playground for innovative ideas, creative coding, and cutting-edge projects. Whether it's smart contracts, decentralized applications, or researchers, I love building and contributing to solutions that make a difference. 🛠️💡 
 
 ### Blockchain & Smart Contracts 
 I'm diving deep into the world of decentralized technology, using tools like Foundry to craft secure and efficient smart contracts. Check out my repositories to explore projects that leverage the power of Ethereum and other blockchains. 
@@ -19,7 +19,7 @@ Open source is the backbone of innovation, and I'm proud to contribute to the co
 I believe in the power of collaboration, knowledge sharing, and building inclusive communities that thrive on collective growth.
 
 - Contribute to various open-source projects across blockchain, web development, and more.
-- Help foster vibrant developer communities through mentorship, code reviews, and community-led initiatives.
+- Help foster vibrant technical and non-technical communities through community-led initiatives.
 - Organize meetups, hackathons, and knowledge-sharing sessions to bring developers together
 
 ### Continuous Learning 
